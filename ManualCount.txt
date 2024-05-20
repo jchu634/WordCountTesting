@@ -1,0 +1,73 @@
+Header: 
+Text per header: 6
+TextBox per Header: 6
+Total per header: 12
+Grand total 36
+
+Footer:
+Text per footer: 7
+Page number per footer: 1
+Total per footer: 8
+Grand total: 24
+
+
+Headings 1-4: 5 each
+Headings totals: 20
+
+Simple Text: 25
+
+List: 10
+
+Table of Contents
+TOC Title: 5
+TOC Items: 15
+TOC Items (incl. page numbers): 18
+
+Numbered List: 12
+
+Table: 12
+
+Emoji:
+5 Emoji Total
+4 if counted as char
+
+Math Equation: 4
+Link: 1
+
+Symbols (Greek)
+5 Symbols total
+2 if counted as a char
+
+
+Bibliography
+Title: 1
+Citations: 5
+Total 6
+
+Picture Captions:
+Caption Header ('figure 1:'): 2
+Caption text: 4
+Total: 6
+
+Footnotes: 3
+WordArt: 3
+Textbox: 4
+EndNotes: 1
+
+Table in textbox: 
+Text only: 6
+Table + textbox: 18
+
+SuperScript/Subscript
+If counted as 1: 1 (Correct)
+If counted seperate: 3
+
+/ Seperated Words
+If counted as 1: 1
+If counted as seperate: 5 (Correct)
+
+. Seperated Words
+If counted as 1: 1 (Correct)
+If counted as seperate: 4
+
+Spaces: 20 (Incorrect)
